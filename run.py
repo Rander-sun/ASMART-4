@@ -1,5 +1,3 @@
 import os
-os.system('python function_19231074.py')
+os.system('nohup python function_19231074.py > log.txt')
 
-
-os.system('python function_19231074') 
